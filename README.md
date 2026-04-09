@@ -64,7 +64,7 @@ When the API is unavailable, the app gracefully falls back to 5 pre-loaded stati
 1. Clone the repository:
 
    ```bash
-   git clone <https://github.com/Kassa-G-Weldemariam/react_native_QuizApp>
+   git clone https://github.com/Kassa-G-Weldemariam/react_native_QuizApp
    cd QuizApp
    ```
 
