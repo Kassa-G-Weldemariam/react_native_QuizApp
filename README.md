@@ -2,6 +2,10 @@
 
 A modern, feature-rich React Native quiz application built with Expo Router, featuring category/difficulty selection, timed questions, progress tracking, question review, and intelligent time management. Optimized for mobile devices with a clean, teal-themed UI.
 
+## Live Deployment
+
+The app is live and available on Expo's free plan at: https://expo.dev/accounts/kassag/projects/QuizApp/builds/860f7b9e-558f-429b-aead-7134657375f9
+
 ## Features
 
 - **Category & Difficulty Selection**: Choose from multiple trivia categories and difficulty levels (Easy, Medium, Hard)
